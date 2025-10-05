@@ -4,7 +4,7 @@ A sleek and modern task management dashboard with authentication, built using Re
 
 [Live Demo Link](https://dashboard-manager-smoky.vercel.app/)
 
-![Dashboard Manager Cover](/public/h1.png)
+![Dashboard Manager Cover](/public/H1.png)
 
 ## 🚀 About The Project
 
@@ -13,13 +13,13 @@ Dashboard Manager is a responsive single-page application that helps users manag
 ## 🖼️ Project Preview
 
 
-![Authentication](/public/h2.png)
+![Authentication](/public/H2.png)
 
 
-![Dashboard](/public/h3.png)
+![Dashboard](/public/H3.png)
 
 
-![Task Management](/public/h4.png)
+![Task Management](/public/H4.png)
 
 ## ✨ Features
 
