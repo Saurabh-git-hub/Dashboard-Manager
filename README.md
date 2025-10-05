@@ -2,13 +2,24 @@
 
 A sleek and modern task management dashboard with authentication, built using React and TailwindCSS. Experience full CRUD operations with a beautiful UI and secure user access.
 
-[Live Demo](your-deploy-link-here)
+[Live Demo Link](https://dashboard-manager-smoky.vercel.app/)
 
-![Dashboard Manager Cover](your-cover-image-link-here)
+![Dashboard Manager Cover](/public/h1.png)
 
 ## 🚀 About The Project
 
 Dashboard Manager is a responsive single-page application that helps users manage their tasks efficiently. With a focus on user experience and modern design principles, it provides an intuitive interface for task management while ensuring data privacy through user authentication.
+
+## 🖼️ Project Preview
+
+
+![Authentication](/public/h2.png)
+
+
+![Dashboard](/public/h3.png)
+
+
+![Task Management](/public/h4.png)
 
 ## ✨ Features
 
@@ -16,6 +27,7 @@ Dashboard Manager is a responsive single-page application that helps users manag
   - Secure signup and login functionality
   - Local storage based user management
   - Protected dashboard routes
+  
 
 - **📋 Task Management**
   - Create, read, update, and delete tasks
@@ -63,11 +75,8 @@ dashboard-manager/
 
 ## 🌐 Live Demo
 
-Visit the live application: [Dashboard Manager](your-deploy-link-here)
+Visit the live application: [Dashboard Manager](https://dashboard-manager-smoky.vercel.app/)
 
-## 🖼️ Project Preview
-
-[Add your cover image here]
 
 ---
 
